@@ -58,3 +58,6 @@ ros2 run re702_midterm_localization_mapping navigation
 ## Demo TurtleBot4
 Demontrasi penggunaan package dapat dilihat pada link berikut:   
 https://youtu.be/RecDlleL964 
+
+## Analisis Hasil Demo 
+Dari pengujian yang dilakukan, robot dapat membaca posisinya dengan baik menggunakan peta yang sudah dibuat. Robot juga bisa bergerak menuju titik tujuan tanpa masalah dan mampu menghindari halangan di depannya. Perintah untuk mengaktifkan buzzer juga berjalan sesuai yang diinginkan. Secara keseluruhan, semua tahap—mulai dari membuat peta, menjalankan lokalisasi, navigasi, hingga menguji program—berhasil dilakukan dengan baik
