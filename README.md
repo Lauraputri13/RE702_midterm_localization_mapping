@@ -52,7 +52,7 @@ source install/setup.bash
 
 Jalankan program:
 ```sh
-ros2 run re702_midterm_localization_mapping navigation
+ros2 run RE702_midterm_localization_mapping navigation
 ```
 
 ## Demo TurtleBot4
